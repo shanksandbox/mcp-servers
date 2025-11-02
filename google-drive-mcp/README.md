@@ -1,3 +1,5 @@
+
+** ai generated readme
 # Google Drive FastMCP Integration
 
 This document walks you through setting up the **Google Drive FastMCP Integration** project — from installation to authentication and verification.
